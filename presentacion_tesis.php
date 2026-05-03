@@ -89,6 +89,8 @@
     .image-box{margin-top:12px;padding:12px;border:1px dashed #aa9370;border-radius:12px;background:linear-gradient(180deg,#fdfaf3,#f2e9d9)}
     .image-box img{width:100%;height:auto;border-radius:10px;border:1px solid #b9a889;background:#fff;box-shadow:0 8px 18px rgba(57,51,41,.2)}
     .caption{margin-top:8px;font-size:.9rem;color:#5a4d3b}
+    .upload-note{margin-top:10px;padding:10px 12px;border:1px solid #c4b091;border-radius:10px;background:#f8f2e7}
+    .upload-note code{display:inline-block;margin-top:6px}
 
     .speaker-notes li{padding:6px 8px;border-left:3px solid #8f7652;background:rgba(143,118,82,.08);border-radius:6px;margin-bottom:8px}
     code{background:#ece6da;border:1px solid #d2c3a7;border-radius:6px;padding:2px 6px}
@@ -142,6 +144,10 @@
         <p class="caption"><strong>Figura:</strong> Modelo de BDD de PillHour (usuarios, programación, medicamentos, alertas, historial y relaciones).</p>
       </div>
       <p class="muted">Imagen de referencia del modelo de base de datos ubicada en <code>assets/img/modelo_bdd_pillhour.svg</code>.</p>
+      <div class="upload-note">
+        <strong>Agregar nuevas imágenes:</strong> puedes copiar tus archivos (PNG, JPG o SVG) en la carpeta
+        <code>assets/img/</code> y luego referenciarlos con <code>&lt;img src="assets/img/tu_imagen.png" /&gt;</code>.
+      </div>
     </section>
 
     <section class="card">
