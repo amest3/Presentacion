@@ -112,6 +112,22 @@
       <div class="image-box"><img src="assets/img/p6_conclusiones_2.svg" alt="Trabajo futuro" /><p class="caption">Mejoras de diseño y expansión futura.</p></div>
     </div>
   </section>
+
+  <section class="card">
+    <h2>7) Galería de evidencias del prototipo</h2>
+    <p>Se integran las imágenes reales cargadas en <code>assets/img</code> para reforzar la presentación visual del hardware, su construcción y las pruebas de funcionamiento.</p>
+    <div class="img-grid">
+      <div class="image-box"><img src="assets/img/autommed.jpg" alt="Concepto de medicación automatizada" /><p class="caption">Referencia de automatización en administración de medicamentos.</p></div>
+      <div class="image-box"><img src="assets/img/pacienteancia.jpg" alt="Paciente adulto mayor" /><p class="caption">Usuario objetivo: adulto mayor con tratamiento farmacológico.</p></div>
+      <div class="image-box"><img src="assets/img/carcasaprototipodispensador.jpg" alt="Carcasa del prototipo dispensador" /><p class="caption">Carcasa del prototipo de dispensador desarrollado.</p></div>
+      <div class="image-box"><img src="assets/img/protcircuito.png" alt="Circuito del prototipo" /><p class="caption">Implementación electrónica del prototipo.</p></div>
+      <div class="image-box"><img src="assets/img/rampaprotdispensador.jpg" alt="Rampa del prototipo dispensador" /><p class="caption">Detalle de la rampa de salida de pastillas.</p></div>
+      <div class="image-box"><img src="assets/img/bdddispensador.jpg" alt="Base de datos del dispensador" /><p class="caption">Estructura de datos y registro de eventos en la base de datos.</p></div>
+      <div class="image-box"><img src="assets/img/diagflujodispensador.png" alt="Diagrama de flujo del dispensador" /><p class="caption">Flujo de funcionamiento del sistema de dispensación.</p></div>
+      <div class="image-box"><img src="assets/img/diagflujpruebaservos.jpg" alt="Diagrama de pruebas de servomotores" /><p class="caption">Proceso de pruebas y calibración de servomotores.</p></div>
+    </div>
+  </section>
+
 </main>
 
 <footer>Proyecto PillHour · Exposición centrada en objetivos, desarrollo técnico y funcionamiento integral</footer>
